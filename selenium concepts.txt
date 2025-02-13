@@ -70,3 +70,80 @@ How to perform dataBase testing in selenium webDriver?
 
 Springboot URL ="https://github.com/vinsguru/spring-selenium";
 
+JD:
+
+Responsibilities:
+Test Data Requirements & Data Model Changes:
+ 
+Analyze user stories to identify test data requirements.
+Assess how changes in the data model affect test data and adjust the test data accordingly.
+Test Case Creation:
+ 
+Develop automated test cases based on test requirements, user stories, or use cases.
+Ensure test cases address a variety of scenarios, including edge cases.
+Collaboration with Developers and Test Engineers:
+ 
+Work closely with developers to understand unit testing data requirements.
+Collaborate with manual and automation test engineers to gather necessary data for testing.
+Test Data Management (TDM):
+ 
+Partner with TDM teams to gather data for in-sprint testing.
+Work with TDM on creating new data dictionary keywords to match the evolving data models.
+Defect Reporting:
+ 
+Identify and document defects clearly, with detailed steps for reproduction.
+Provide all necessary information for developers to diagnose and resolve issues.
+Automated Regression Testing:
+ 
+Run automated regression tests regularly to ensure no unintended side effects occur due to code changes.
+Test Automation Strategy and Planning:
+ 
+Collaborate with test leads and stakeholders to create or update the automation strategy.
+Define the scope, objectives, and approach for test automation as part of the test planning process.
+In-Sprint/Feature Testing Support:
+ 
+Assist in retesting features during the sprint and prepare necessary data for feature testing.
+Qualifications:
+Skills and Experience:
+Automation Tools:
+ 
+Experience with tools such as Selenium, Appium, or similar for automated testing.
+Capable of writing and executing automated test scripts.
+Programming & Frameworks:
+ 
+Basic coding knowledge in languages like Java, Python, or JavaScript for test automation.
+Familiarity with test frameworks like TestNG or JUnit.
+Web Technologies:
+ 
+Basic understanding of web technologies such as HTML, CSS, and JavaScript for better insight into web application structures.
+Test Case Design:
+ 
+Expertise in writing effective test cases, creating test scenarios, and preparing test data.
+Test Data Management:
+ 
+Ability to manage test data effectively, including its creation, maintenance, and use in automated tests.
+SQL Knowledge:
+ 
+Proficiency in SQL for database testing and data validation.
+Test Reports & Metrics:
+ 
+Ability to generate and interpret reports and metrics from automated test runs.
+API Testing:
+ 
+Familiarity with API testing concepts and tools like Postman or REST Assured for testing APIs.
+Agile Methodologies:
+ 
+Experience working in Agile/Scrum teams and understanding of Agile methodologies.
+Test Case Management Tools:
+ 
+Experience using tools like Jira or TestRail for test case execution and tracking.
+Issue Troubleshooting:
+ 
+Ability to troubleshoot basic issues and escalate more complex problems when needed.
+Effective Communication:
+ 
+Strong communication skills for effective collaboration with teams and stakeholders.
+Willingness to Learn:
+ 
+A proactive attitude towards learning and adapting to new tools and technologies in automation testing.
+
