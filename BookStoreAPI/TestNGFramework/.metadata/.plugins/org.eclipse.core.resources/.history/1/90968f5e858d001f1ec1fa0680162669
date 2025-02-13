@@ -1,0 +1,26 @@
+package ecommTestSwagLabs;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.Test;
+import org.testng.annotations.Parameters;
+
+public class EcommTestValidations {
+
+	WebDriver driver;
+	
+	@Test
+	@Parameters({"url","userName","password"})
+	public void test(String url,String userName,String password) {
+		
+		driver=new EdgeDriver();
+		driver.manage().window().maximize();
+		driver.get(url);
+		driver.findElement(By.cssSelector("[id='user-name']")).sendKeys(userName);
+		driver.findElement(By.cssSelector("[id='password']")).sendKeys(password);
+		driver.findElement(By.cssSelector("[id='login-button']")).click();
+		
+	}
+
+}

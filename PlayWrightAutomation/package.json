@@ -1,0 +1,17 @@
+{
+  "name": "playwrightautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "regression":"npx playwright test tests/internet-herokuapp.spec.js",
+    "smoke": "npx playwright test --grep '@web'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.6"
+  }
+}

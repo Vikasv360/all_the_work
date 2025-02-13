@@ -1,0 +1,14 @@
+package testNGpractice;
+
+import org.testng.annotations.BeforeMethod;
+
+public class PracticeTest {
+	
+	webDri
+	
+	@BeforeMethod
+	public void setUp() {
+		d
+	}
+
+}

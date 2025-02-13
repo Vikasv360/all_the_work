@@ -1,0 +1,8 @@
+package testNGIntegration;
+
+public class Excel {
+
+	public void getData() {
+		
+	}
+}

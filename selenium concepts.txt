@@ -1,0 +1,72 @@
+What is selenium?
+What are the components of selenium?
+What is selenium webdriver?
+what are the adv & disAdv of selenium webDriver?
+What is architecture of selenium webdriver?
+How to launch a webbrowser?
+what is webDriverManager?
+How to open URL?
+how to capture title, URL and PageSource of the webPage?
+How to check WebElement os displayed, Enabled, checked and selected?
+How to navigate back & forward?
+How to refresh/reload a page?
+differrentiate b/w get() and navigate.to()?
+Difference b/w findElement and findElements in selenium webDriver?
+how to send and clear the text from input field?
+how to capture text from input field?
+diference b/w getText() and getAttribute()?
+How to handle dropdown in selenium?
+WHat is the use select class ?
+How to handle multiple dropdowns in a page using generic method?
+How to handle bootstrap dropdwon in selenium webdriver?
+How to handle JQuery dropdown in selenium webdriver?
+How to check drop down options are sorted?
+How to handle auto suggestive dropdown in selenium webdriver?
+How to handle autocomplete google places dropdown in selenium webdriver?
+How to handle browser windows in selenium webdriver?
+Difference b/w getWindowhandle() and getWindowhandles() in selenium webDriver?
+How to switch between multiple browser windows?
+Difference b/w close() and quit() in selenium webDriver?
+How to close all browser windows?
+How to close specific browser window by choice?
+How to locate links in selenium webDriver?
+Difference b/w linkText() and partialLinkText() in selenium webDriver?
+How to capture all the links in selenium webDriver?
+What is broken link? how to check it?
+What is javascript alert?
+How to handle javascript alert?
+How to handle Authentication popup?
+How to handle permission popup?
+Difference b/w frames and iframes in selenium webDriver?
+How to handle iframes in selenium webDriver?
+How to switch between multiple iframes in selenium webDriver?
+How to handle inner iframes in selenium webDriver?
+What is synchronization problem in automation?
+What are the different types of wait available in selenium?
+How to handle static webtables in selenium webDriver?
+How to handle dynamic webtables with pagination in selenium webDriver?
+How to handle date pickers in selenium webDriver?
+How to perform mouse actions(right click, left click,drag and drop, mouse hover sctions) in selenium webDriver?
+How to find location and size of the element?
+Difference b/w actions class and action interface in selenium webDriver?
+Difference b/w build() and perform() in selenium webDriver?
+How to handle keyword action in selenium webDriver?
+How to capture screenshot of full page?
+How to capture screenshot of section of web page?
+How to capture screenshot of element in web page?
+How to use javascript executor in selenium webDriver?
+How to capture cookies from browser?
+How to print cookies detail?
+How to add cookies?
+How to delete specific cookies?
+How to all delete cookies?
+How to download the files(word,pdf, embedded pdf) using selenium webDriver?
+How to download the files into custom folder in selenium webDriver?
+How to upload files in selenium webDriver?
+How to perform dataBase testing in selenium webDriver?
+
+******************************************************************************
+
+
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="HRM Test Suite">
+		<classes>
+			<class name="stepDefinitions.TimeSheetSubmission" />
+			<class name="stepDefinitions.Admin_UserManagement" />
+		</classes>
+	</test>
+
+
+	<test thread-count="5" name="Initial">
+		<classes>
+			<class name="stepDefinitions.TestValidations" />
+		</classes>
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

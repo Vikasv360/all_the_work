@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\vikasv\Desktop\BookStoreAPI\LearnProgramming\src\test\java\Java\LearnProgramming\EverythingAboutArrays.java"/>
+			<item value="C:\Users\vikasv\Desktop\BookStoreAPI\Shopify"/>
+			<item value="C:\Users\vikasv\Desktop\BookStoreAPI\APIframework"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="Test.Name"/>
+			<item value="TestNGFrame.TestValidations"/>
+			<item value="Automation.DataBaseConnection"/>
+			<item value="RestAssured.SimpleBookAPI"/>
+			<item value="JAVA.LearnProgramming"/>
+			<item value="Java.LearnProgramming"/>
+			<item value="Swagger.AuthenticationAPI"/>
+			<item value="Swagger"/>
+		</list>
+		<list key="groupId">
+			<item value="Test"/>
+			<item value="TestNGFrame"/>
+			<item value="Automation"/>
+			<item value="RestAssured"/>
+			<item value="JAVA"/>
+			<item value="Java"/>
+			<item value="Swagger"/>
+		</list>
+		<list key="artifactId">
+			<item value="Name"/>
+			<item value="TestValidations"/>
+			<item value="DataBaseConnection"/>
+			<item value="SimpleBookAPI"/>
+			<item value="LearnProgramming"/>
+			<item value="AuthenticationAPI"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

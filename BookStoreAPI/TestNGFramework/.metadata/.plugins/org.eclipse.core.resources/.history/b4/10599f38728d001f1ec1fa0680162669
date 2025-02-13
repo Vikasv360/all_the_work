@@ -1,0 +1,13 @@
+package testNGpractice;
+
+public class timeOutForTestValidations {
+
+	
+	public void testMethod() {
+		int i=1;
+		
+		while(i==1) {
+			System.out.println(i);
+		}
+	}
+}

@@ -1,0 +1,32 @@
+package testNGpractice;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+
+public class TestNGBasics {
+
+	@BeforeSuite
+	public void setUp() {
+		System.out.println("Setup system property for browsers");
+	}
+	
+	@BeforeClass
+	public void launchBrowser() {
+		System.out.println("launch the edge browser");
+	}
+	
+	@BeforeTest
+	public void login() {
+		System.out.println("login with valid credentails");
+	}
+	
+	@BeforeMethod
+	public void enterURL() {
+		System.out.println("Enter the URL");
+	}
+	
+	
+	
+}

@@ -1,0 +1,22 @@
+package testNGIntegration;
+
+public class DataProvider {
+
+	
+	
+	
+	
+	@DataProvider
+	public Object[][] getData() {
+		
+		Object[][] data = {
+				{"Hello","Text",1},
+				{"Bye","Call",123},
+				{"Good Morning","Email",432}
+				
+		};
+		
+		return data;
+	}
+	
+}
